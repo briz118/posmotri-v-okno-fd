@@ -1,0 +1,23 @@
+{
+  "name": "posmotri-v-okno-fd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Привет!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yandex-praktikum/posmotri-v-okno-fd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yandex-praktikum/posmotri-v-okno-fd/issues"
+  },
+  "homepage": "https://github.com/yandex-praktikum/posmotri-v-okno-fd#readme",
+  "description": "",
+  "dependencies": {
+    "prettier": "^3.5.3",
+    "stylelint": "^16.19.1"
+  }
+}
