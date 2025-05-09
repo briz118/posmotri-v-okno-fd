@@ -40,7 +40,6 @@ ol {
 
 .content {
   justify-content: center;
-  align-items: center;
   display: grid;
   grid-template-columns: 711px 399px;
   grid-template-areas: "result_grid content__details_grid";
@@ -224,7 +223,7 @@ ol {
 
 .search-form__label {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   width: fit-content;
   cursor: pointer;
 }
